@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="200" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1080&crop=smart&auto=webp&s=c098f85ac95f06b05b0245fd8cffbebdb5edb74c"  />
+<img align="right" height="200" src="https://i.redd.it/m6q5r7cxt62c1.gif"  />
 
 ###
 
@@ -28,5 +28,37 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<p align="left" style="font-size: 5px;">
+                        :PB@Bk:
+                  ,jB@@B@B@B@BBL.
+               7G@B@B@BMMMMMB@B@B@Nr
+           :kB@B@@@MMOMOMOMOMMMM@B@B@B1,
+       :5@B@B@B@BBMMOMOMOMOMOMOMM@@@B@B@BBu.
+    70@@@B@B@B@BXBBOMOMOMOMOMOMMBMPB@B@B@B@B@Nr
+  G@@@BJ iB@B@@  OBMOMOMOMOMOMOM@2  B@B@B. EB@B@S
+  @@BM@GJBU.  iSuB@OMOMOMOMOMOMM@OU1:  .kBLM@M@B@
+  B@MMB@B       7@BBMMOMOMOMOMOBB@:       B@BMM@B
+  @@@B@B         7@@@MMOMOMOMM@B@:         @@B@B@
+  @@OLB.          BNB@MMOMOMM@BEB          rBjM@B
+  @@  @           M  OBOMOMM@q  M          .@  @@
+  @@OvB           B:u@MMOMOMMBJiB          .BvM@B
+  @B@B@J         0@B@MMOMOMOMB@B@u         q@@@B@
+  B@MBB@v       G@@BMMMMMMMMMMMBB@5       F@BMM@B
+  @BBM@BPNi   LMEB@OMMMM@B@MMOMM@BZM7   rEqB@MBB@
+  B@@@BM  B@B@B  qBMOMB@B@B@BMOMBL  B@B@B  @B@B@M
+   J@@@@PB@B@B@B7G@OMBB.   ,@MMM@qLB@B@@@BqB@BBv
+      iGB@,i0@M@B@MMO@E  :  M@OMM@@@B@Pii@@N:
+         .   B@M@B@MMM@B@B@B@MMM@@@M@B
+             @B@B.i@MBB@B@B@@BM@::B@B@
+             B@@@ .B@B.:@B@ :B@B  @B@O
+               :0 r@B@  B@@ .@B@: P:
+                   vMB :@B@ :BO7
+                       ,B@B  
+</p>
 
 ###
