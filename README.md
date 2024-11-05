@@ -13,6 +13,10 @@
 
 ###
 
+<img align="right" height="200" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1080&crop=smart&auto=webp&s=c098f85ac95f06b05b0245fd8cffbebdb5edb74c"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -23,16 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<div align="center">
-  <img height="300" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1080&crop=smart&auto=webp&s=c098f85ac95f06b05b0245fd8cffbebdb5edb74c"  />
 </div>
 
 ###
